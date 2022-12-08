@@ -31,5 +31,3 @@ node{
         sh "docker run -itd --name tomcatt -p 9070:8080 nagunani/myweb:0.0.5"
     }
 }
-
-
